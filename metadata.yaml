@@ -1,11 +1,16 @@
 _repo: Stephen-H-Branch-s-Alligator-Vol-1-no-15-July-31-1858_54894
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54894-h/images/cover.jpg
 creator:
   editor:
     agent_name: Branch, Stephen H.
     gutenberg_agent_id: '44730'
     url: http://www.gutenberg.org/2009/agents/44730
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54894#Stephen-H-Branch-s-Alligator-Vol-1-no-15-July-31-1858
 gutenberg_issued: '2017-06-11'
 gutenberg_type: Text
 identifiers:
